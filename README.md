@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning, data mining, database
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alper1yasar@gmail.com
+- 💻 I'm working on VR via Unity3D. 
 
 <!---
 alperyasar/alperyasar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
